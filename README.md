@@ -1,4 +1,4 @@
-# mantle-api-ruby
+# Mantle API Library for Ruby
 
 A very basic Ruby library for accessing the Mantle API. Never give your Mantle API key to anyone, and never use it on the frontend or store it in source control!
 
