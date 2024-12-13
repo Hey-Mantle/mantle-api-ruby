@@ -1,0 +1,12 @@
+include:
+  - '**/*.rb'
+require:
+  - yard
+reporters:
+  - rubocop
+plugins:
+  - solargraph-rails
+require_paths:
+  - lib
+domains: []
+max_files: 5000 
